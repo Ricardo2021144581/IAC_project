@@ -1,0 +1,7 @@
+gradio>=4.44
+mediapipe
+opencv-python
+numpy
+pandas
+scikit-learn
+joblib
