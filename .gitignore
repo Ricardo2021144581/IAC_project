@@ -3,3 +3,4 @@ phase1/new_3.2_per_frame_measurements.gzip
 phase1/new_3.2_video_measurements.gzip
 phase1/per_frame_measurements.gzip
 phase1/video_measurements.gzip
+.venv/
