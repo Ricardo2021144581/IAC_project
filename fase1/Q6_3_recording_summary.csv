@@ -1,0 +1,9 @@
+recording,features_outside_range,features_outside_central_95pct,most_extreme_percentile
+Ricardo_angry_landmarks.csv,13,24,0.0
+Ricardo_calm_landmarks.csv,12,30,0.0
+Ricardo_disgust_landmarks.csv,5,17,0.0
+Ricardo_fearful_landmarks.csv,10,30,0.0
+Ricardo_happy_landmarks.csv,19,36,0.0
+Ricardo_neutral_landmarks.csv,13,34,0.0
+Ricardo_sad_landmarks.csv,15,26,0.0
+Ricardo_surprised_landmarks.csv,16,25,0.0
